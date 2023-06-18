@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">kodingppb</string>
+    <string name="article_title">Berita Hari ini</string>
+    <string name="article_subtitle"><b>Gempa 3,7 Terjadi di Kepulauan Yapen, Papua</b></string>
+    <string name="article_text">
+        <b>Jakarta</b> - Gempa bumi berkekuatan M 3,7 terjadi di Kabupaten Kepulauan Yapen, Papua. Pusat gempa berada di kedalaman 14 Km.Titik gempa berada di 1,82 Lintang Selatan, 136,86 Bujur Timur. Gempa ini terjadi pada pukul 02.03 WIB
+        \n\n
+        "Gempa Mag: 3,7 (77 km Tenggara Kep-Yapen-Papua)," tulis BMKG di akun Twitternya
+        \n\n
+        Hingga kini belum diketahui ada-tidaknya dampak dari gempa tersebut.
+        \n\n
+    </string>
+</resources>
